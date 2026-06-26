@@ -7,7 +7,7 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| Lucas da maia | @Z|luc7 | 3B |
+| Lucas da maia | @Zluc7 | 3B |
 | Israel cabral | @username | 3B |
 | Enzo cavalcante | @username | 3B |
 
