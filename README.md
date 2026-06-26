@@ -35,8 +35,7 @@ O Sistema CEMIC foi desenvolvido para facilitar a comunicação entre a coordena
 
 ```
 ├── README.md           ← documentação principal do projeto
-├── BACKLOG.md          ← resumo fixo do MVP e links
-├── docs/
+├── BACKLOG.md          ← backlog do MVP e planejamento das funcionalidades
 │   ├── arquitetura.md  ← diagrama de arquitetura
 │   └── decisoes/       ← registros de decisão técnica (ADR)
 ├── diagramas/          ← imagens e diagramas
