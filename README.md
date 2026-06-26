@@ -7,11 +7,11 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| Lucas da maia | @Z|luc7 | 3B |
+| Israel cabral | @username | 3B |
+| Enzo cavalcante | @username | 3B |
 
-**Tema:** (escreva aqui em 1 frase)
+**Tema:** Sistema cemic facilitador de comunicação entre coordenação e pais ou responsáveis
 **Tecnologia:** Python + Flask + SQLite
 
 ---
