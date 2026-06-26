@@ -9,7 +9,7 @@
 ## 🎯 Objetivo do MVP
 
 Desenvolver um chatbot capaz de interagir com usuários por meio de mensagens, respondendo perguntas de forma automática e intuitiva. O MVP deverá permitir conversas básicas, oferecer respostas pré-definidas ou geradas por IA e apresentar uma interface simples e funcional.
-
+teste
 ---
 
 ## ✅ Funcionalidades do MVP
