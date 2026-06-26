@@ -18,7 +18,7 @@
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+O Sistema CEMIC foi desenvolvido para facilitar a comunicação entre a coordenação escolar e os pais ou responsáveis, centralizando avisos, comunicados e informações importantes em um único ambiente digital. O objetivo é reduzir falhas de comunicação, agilizar o envio de informações e tornar o acompanhamento da vida escolar mais eficiente para todos os envolvidos.
 
 ---
 
@@ -34,7 +34,7 @@
 ## 📁 Estrutura do projeto
 
 ```
-├── README.md           ← este arquivo
+├── README.md           ← documentação principal do projeto
 ├── BACKLOG.md          ← resumo fixo do MVP e links
 ├── docs/
 │   ├── arquitetura.md  ← diagrama de arquitetura
