@@ -18,7 +18,7 @@
 
 ## 🎯 O que o sistema faz
 
-O Sistema CEMIC foi desenvolvido para facilitar a comunicação entre a coordenação escolar e os pais ou responsáveis, centralizando avisos, comunicados e informações importantes em um único ambiente digital. O objetivo é reduzir falhas de comunicação, agilizar o envio de informações e tornar o acompanhamento da vida escolar mais eficiente para todos os envolvidos.
+O Sistema comunicador cemi foi desenvolvido para facilitar a comunicação entre a coordenação escolar e os pais ou responsáveis, centralizando avisos, comunicados e informações importantes em um único ambiente digital. O objetivo é reduzir falhas de comunicação, agilizar o envio de informações e tornar o acompanhamento da vida escolar mais eficiente para todos os envolvidos.
 
 ---
 
