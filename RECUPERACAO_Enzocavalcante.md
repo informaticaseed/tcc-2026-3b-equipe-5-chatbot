@@ -24,9 +24,6 @@
 > Use "Closes #N" para cada Issue que este PR resolve.
 
 Closes #4
-Closes #
-Closes #
-
 ---
 
 ## Como testar
@@ -51,7 +48,7 @@ Closes #
 
 | Integrante | O que fez | Commits |
 |-----------|----------|---------|
-| (nome 1) | | |
+| Lucas da maia | | |
 | (nome 2) | | |
 | (nome 3) | | |
 
