@@ -8,7 +8,7 @@
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
 | Lucas da maia | @Zluc7  | 3B |
-| Israel cabral | @username | 3B |
+| Israel cabral |  | 3B |
 | Enzo cavalcante | @username | 3B |
 
 **Tema:** Sistema cemic facilitador de comunicação entre coordenação e pais ou responsáveis
