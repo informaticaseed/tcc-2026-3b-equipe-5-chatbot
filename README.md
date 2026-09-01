@@ -30,6 +30,11 @@ Sexta — O grupo abre 1 Pull Request único linkando todas as Issues concluída
 Push/Merge — As métricas de participação e a validação do código rodam automaticamente via GitHub Actions.
 commits.
 
+recuperacao: implementa tela de login com validação de campos - adiciona rota Flask, formulário e testes de validação
+
+recuperacao: cria tabela de usuários no repositorio.py - adiciona queries de cadastro, consulta e autenticação
+
+recuperacao: atualiza diagrama de arquitetura no docs/ - completa README, diagrama e testes manuais documentados
 ---
 
 ## 📁 Estrutura do projeto
@@ -60,4 +65,4 @@ python src/app.py
 # Rodar os testes
 pytest tests/ -v
 ```
-commit
+commit t
